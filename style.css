@@ -1,0 +1,18 @@
+body {
+    background: url(istockphoto-1341437690-170667a.jpg);
+    background-repeat: inherit;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    color: darkblue;
+}
+
+#camera {
+    border: 2px dotted white;
+    width: 350px;
+    height: 300px;
+}
